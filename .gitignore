@@ -1,0 +1,14 @@
+/target/
+/.idea/
+/allure-results/*
+/log/*
+/screenshots/*
+/drivers/*
+automation.iml
+*.iml
+/apk/*
+/src/test/resources/conf/mobileNumberDigits.json
+*.classpath
+*.factorypath
+*.project
+/.settings/

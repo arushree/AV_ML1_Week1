@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Kaleidofin Agent App Test Suite" verbose="1">
+
+    <test name="Agent App tests" preserve-order="true">
+        <classes>
+
+            <class name="testcore.scenarios.AndroidNative.Landing"/>
+        </classes>
+    </test>
+
+</suite>
